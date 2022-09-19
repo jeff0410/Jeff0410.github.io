@@ -1,1 +1,0 @@
-class e{getTreeTableNodes(){return fetch("data/treetablenodes.json").then((e=>e.json())).then((e=>e.root))}getTreeNodes(){return fetch("data/treenodes.json").then((e=>e.json())).then((e=>e.root))}}export{e as N};
