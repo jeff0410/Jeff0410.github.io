@@ -1,0 +1,1 @@
+import{_ as e}from"./index.5eff2efa.js";const t=e({},[["render",function(e,t,s,f,n,r){return" settingDocument "}],["__file","/Users/jeff/Documents/jeff/test/sample/started/my-vue-app/src/views/test/SettingDocument.vue"]]);export{t as default};

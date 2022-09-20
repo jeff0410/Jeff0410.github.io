@@ -1,0 +1,1 @@
+import{_ as e}from"./index.5eff2efa.js";const t=e({},[["render",function(e,t,s,f,r,a){return" stats "}],["__file","/Users/jeff/Documents/jeff/test/sample/started/my-vue-app/src/views/test/Stats.vue"]]);export{t as default};
